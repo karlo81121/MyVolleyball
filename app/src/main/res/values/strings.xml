@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">MyVolleyball</string>
+
+    <string name="all_games">Check All Games</string>
+    <string name="all_teams">Check All Teams</string>
+    <string name="all_players">Check All Players</string>
+    <string name="result_table">Check Result Table</string>
+
+    <string name="volleyball_image_description">Volleyball Image</string>
+    <string name="player_image_description">Player Image</string>
+    <string name="rights_reserved">©2022 MyVolleyball. All Rights Reserved.</string>
+
+    <string name="today_title">Today</string>
+    <string name="tomorrow_title">Tomorrow</string>
+
+    <string name="team1">USA</string>
+    <string name="team2">Brazil</string>
+    <string name="team3">Russia</string>
+    <string name="team4">Poland</string>
+
+    <string name="team5">Team USA</string>
+
+    <string name="player1">Taylor Sander</string>
+    <string name="player2">Maxwell Holt</string>
+    <string name="player3">Bruno Rezende</string>
+    <string name="player4">Wallace De Souza</string>
+
+    <string name="team_score">0</string>
+    <string name="set1">1</string>
+    <string name="set2">2</string>
+    <string name="set3">3</string>
+    <string name="set4">4</string>
+    <string name="set5">5</string>
+    <string name="actual_score_title">Actual Score</string>
+    <string name="space_between">-</string>
+    <string name="sets">Sets</string>
+
+    <string name="all_games_title">All Games</string>
+    <string name="all_teams_title">All Teams</string>
+    <string name="all_players_title">All Players</string>
+
+    <string name="games_played">Games played</string>
+    <string name="games_won">Games won</string>
+    <string name="games_lost">Games lost</string>
+    <string name="teamVSteam">USA vs Brazil</string>
+
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="age">Age</string>
+    <string name="spike">Spike height</string>
+    <string name="block">Block height</string>
+
+    <string name="display_map">Display map</string>
+    <string name="add_picture">Add your picture</string>
+
+    <string name="add_button">+</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
